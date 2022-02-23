@@ -60,7 +60,7 @@ Here are some ideas to get you started:
  
 ##
  
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carloseduardoviso&theme=solarized_dark)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carloseduardoviso&theme=solarized_monokai)
   
  ##
   **Assista meu gráfico de contribuição comido pela cobra🐍**
