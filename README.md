@@ -26,7 +26,8 @@ Here are some ideas to get you started:
    ##
    
    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=carloseduardoviso)](https://git.io/streak-stats)
-   
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com //?user=carloseduardoviso/user=&theme=escuro&hide_border=falso&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
    ##
      
 <div style="display: inline_block"><br> 
