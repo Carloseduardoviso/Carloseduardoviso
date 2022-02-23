@@ -65,5 +65,5 @@ Here are some ideas to get you started:
   ![snake gif](https://github.com/carloseduardoviso/carloseduardoviso/blob/output/github-contribution-grid-snake.gif)
   
   ##
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=msoftware)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=msoftware)](https://github.com/ryo-ma/github-profile-trophy)
   </div>
