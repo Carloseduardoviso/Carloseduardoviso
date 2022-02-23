@@ -62,6 +62,13 @@ Here are some ideas to get you started:
  
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carloseduardoviso&theme=solarized_dark)
   
+  ## **STREAK STATS**
+
+<p align = "center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrhrifat&theme=gotham&hide_border=true">
+    <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mrhrifat"> -->
+</p>
+  
  ##
   **Assista meu gráfico de contribuição comido pela cobra🐍**
   ![snake gif](https://github.com/carloseduardoviso/carloseduardoviso/blob/output/github-contribution-grid-snake.gif)
