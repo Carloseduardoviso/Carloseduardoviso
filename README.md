@@ -48,7 +48,8 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/carlos-eduardo-carvalho-do-viso-ti-b45183212" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
    <a href="https://web.telegram.org/z/#-1329671692" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-  <img align="right" alt="cadu-pic" height="150" style="border-radius:50px;" src="blob:https://web.whatsapp.com/325fdf58-d5cb-4f62-b601-a996524a4faf">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://png.pngtree.com/element_origin_min_pic/16/12/11/f102a7d102afee6fd3aad17a576b7d45.jpg6">
+
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   </div>
