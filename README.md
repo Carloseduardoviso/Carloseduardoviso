@@ -1,6 +1,8 @@
 Oiii eu sou o Carlos Eduardo, sou Analista de Sistema da Informação e criador de conteúdo de programação e tecnologia!
 
  ##
+  [![trophy](https://github-profile-trophy.vercel.app/?username=carloseduardoviso)](https://github.com/ryo-ma/github-profile-trophy)
+ ##
 
 <!--
 **Carloseduardoviso/Carloseduardoviso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
