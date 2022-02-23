@@ -48,7 +48,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/carlos-eduardo-carvalho-do-viso-ti-b45183212" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
    <a href="https://web.telegram.org/z/#-1329671692" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://png.pngtree.com/element_origin_min_pic/16/12/11/f102a7d102afee6fd3aad17a576b7d45.jpg6">
+  <img align="right" alt="cadu-pic" height="150" style="border-radius:50px;" src="https://www.bing.com/images/search?view=detailV2&ccid=fiKhKogB&id=9C4ED5E074B62C1E219656B2E4A297F51D2295CF&thid=OIP.fiKhKogBVDSig1sXkTANIwHaHa&mediaurl=https%3a%2f%2fpng.pngtree.com%2felement_origin_min_pic%2f16%2f12%2f11%2ff102a7d102afee6fd3aad17a576b7d45.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.7e22a12a88015434a2835b1791300d23%3frik%3dz5UiHfWXouSyVg%26pid%3dImgRaw%26r%3d0&exph=640&expw=640&q=imagem+de+desenho+de+programador&simid=608051181882009263&FORM=IRPRST&ck=47B553CEB1E418F27270E28817B55D68&selectedIndex=0&idpp=overlayview&ajaxhist=0&ajaxserp=0">
 
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
