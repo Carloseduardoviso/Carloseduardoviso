@@ -51,7 +51,7 @@ Here are some ideas to get you started:
   <img align="right" alt="cadu-pic" height="150" style="border-radius:50px;" src="https://th.bing.com/th/id/R.51b751776297285541084cb8f3a9120c?rik=qNhuWWfRFm%2bzuQ&riu=http%3a%2f%2f1.bp.blogspot.com%2f-sLlxBYuVEvg%2fTiH985uOlDI%2fAAAAAAAALMM%2fCWNv4gIoL7M%2fs320%2fo%2bhoem%2be%2bo%2bcomputador.jpg&ehk=iQbEYCsov0S45LiiqswsudbGMlVg%2fwX6MO%2bcHOECrwk%3d&risl=&pid=ImgRaw&r=0">
 
   
-  ![snake gif](https://github.com/carloseduardoviso/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+  ![snake gif](https://github.com/YOUR_USERNAME/carloseduardoviso/blob/output/github-contribution-grid-snake.gif)
   
   ![Hey there, I'm Cyris. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
   </div>
