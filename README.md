@@ -56,8 +56,7 @@ Here are some ideas to get you started:
    <a href="https://web.telegram.org/z/#-1329671692" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
  
 ##
-  
- **Nota: Os idiomas superiores são apenas uma métrica das linguagens que meu código público consiste e não reflete experiência ou nível de habilidade.**
+ 
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carloseduardoviso&theme=vue)
   
  ##
