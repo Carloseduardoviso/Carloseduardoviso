@@ -23,8 +23,11 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carloseduardoviso&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloseduardoviso&layout=compact&langs_count=7&theme=dark"/>
 </div>
+ 
+ ##
+ [![trophy](https://github-profile-trophy.vercel.app/?username=carloseduardoviso)](https://github.com/ryo-ma/github-profile-trophy)
   
-   ##
+  ##
    
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=carloseduardoviso&theme=green_nur&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
  
@@ -65,5 +68,5 @@ Here are some ideas to get you started:
   ![snake gif](https://github.com/carloseduardoviso/carloseduardoviso/blob/output/github-contribution-grid-snake.gif)
   
   ##
-[![trophy](https://github-profile-trophy.vercel.app/?username=carloseduardoviso)](https://github.com/ryo-ma/github-profile-trophy)
+
   </div>
