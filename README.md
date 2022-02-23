@@ -26,13 +26,8 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloseduardoviso&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
- ##
- ## **STREAK STATS**
 
-<p align = "center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=carloseduardoviso=gotham&hide_border=true">
-    <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=carloseduardoviso"> -->
-</p>
+ ## **ESTATÍSTICAS DE RAIA**
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=carloseduardoviso&theme=green_nur&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
  
  ##
