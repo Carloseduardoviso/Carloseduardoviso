@@ -58,6 +58,10 @@ Here are some ideas to get you started:
 
   
 ##
+  
+ **Nota: Os idiomas superiores são apenas uma métrica das linguagens que meu código público consiste e não reflete experiência ou nível de habilidade.**
+  
+ ##
   **Assista meu gráfico de contribuição comido pela cobra🐍
   ![snake gif](https://github.com/carloseduardoviso/carloseduardoviso/blob/output/github-contribution-grid-snake.gif)
   
