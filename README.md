@@ -2,7 +2,7 @@ Oiii eu sou o Carlos Eduardo, sou Analista de Sistema da Informação e criador 
 
  ##
  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-carloseduardoviso)](https://github.com/ryo-ma/github-profile-trophy)
-  [![trophy](https://github-profile-trophy.vercel.app/?username=carloseduardoviso)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-carloseduardoviso)](https://github.com/ryo-ma/github-profile-trophy)
  ##
 
 <!--
