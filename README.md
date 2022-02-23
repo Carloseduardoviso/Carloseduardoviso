@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ##
   
  **Nota: Os idiomas superiores são apenas uma métrica das linguagens que meu código público consiste e não reflete experiência ou nível de habilidade.**
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carloseduardoviso&theme=dark)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carloseduardoviso&theme=vue)
   
  ##
   **Assista meu gráfico de contribuição comido pela cobra🐍
