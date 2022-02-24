@@ -4,6 +4,8 @@ Oiii eu sou o Carlos Eduardo, sou Analista de Sistema da Informação e criador 
  **Troféus Personalizados**
  ##
  [![trophy](https://github-profile-trophy.vercel.app/?username=carloseduardoviso-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+ [![trophy](https://github-profile-trophy.vercel.app/?username=carloseduardoviso)](https://github.com/ryo-ma/github-profile-trophy)
  ##
 
 <!--
