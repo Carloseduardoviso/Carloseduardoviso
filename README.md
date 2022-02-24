@@ -1,6 +1,6 @@
 Oiii eu sou o Carlos Eduardo, sou Analista de Sistema da Informação e criador de conteúdo de programação e tecnologia!
 
- ##
+ 
  **Troféus Personalizados**
  [![trophy](https://github-profile-trophy.vercel.app/?username=carloseduardoviso)](https://github.com/ryo-ma/github-profile-trophy)
  ##
@@ -30,8 +30,7 @@ Here are some ideas to get you started:
 
  ## **ESTATÍSTICAS DE RAIA**
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=carloseduardoviso&theme=green_nur&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
- 
- ##
+
     **Linguagens em Desenvolvimento**
 <div style="display: inline_block"><br> 
    <div style="display: inline_block"><br>
