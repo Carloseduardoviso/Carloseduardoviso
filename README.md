@@ -56,9 +56,10 @@ Here are some ideas to get you started:
   <a href = "mailto:carloseduardo384.45@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carlos-eduardo-carvalho-do-viso-ti-b45183212" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://web.telegram.org/z/#-1329671692" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
- 
-##
+
+  
   📊Cards de Estastiticas📊
+##
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carloseduardoviso&theme=solarized_dark)
   
  ##
