@@ -69,7 +69,7 @@ Here are some ideas to get you started:
   
  ##
   **Assista meu gráfico de contribuição comido pela cobra🐍**
-  ![snake gif](https://github.com/carloseduardoviso/carloseduardoviso/blob/output/github-contribution-grid-snake.gif)
+  
   
   ##
 
