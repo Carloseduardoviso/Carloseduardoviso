@@ -49,7 +49,7 @@ Here are some ideas to get you started:
   <img align="center" alt="cadu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="cadu-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="cadu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="cadu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicons/master/devicon/icons/mysql/mysql-original.svg" ">
+  <img align="center" alt="cadu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicons/master/icons/mysql/mysql-original.svg" ">
  
 
    ##
