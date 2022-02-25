@@ -16,7 +16,7 @@ Oiii eu sou o Carlos Eduardo, sou Analista de Sistema da Informação e criador 
 <!--
 **Carloseduardoviso/Carloseduardoviso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started.
 
 - 🔭 No momento, estou trabalhando como Analista de Suporte...
 - 🌱  Estou aprendendo Font-End e Beck-End...
