@@ -6,7 +6,12 @@ Oiii eu sou o Carlos Eduardo, sou Analista de Sistema da Informação e criador 
  
  [![trophy](https://github-profile-trophy.vercel.app/?username=carloseduardoviso)](https://github.com/ryo-ma/github-profile-trophy)
  ##
-
+ 
+<div align="center">
+  <a href="https://github.com/carloseduardoviso">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carloseduardoviso&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloseduardoviso&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 <!--
 **Carloseduardoviso/Carloseduardoviso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
