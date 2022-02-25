@@ -7,10 +7,13 @@ Oiii eu sou o Carlos Eduardo, sou Analista de Sistema da Informação e criador 
  [![trophy](https://github-profile-trophy.vercel.app/?username=carloseduardoviso)](https://github.com/ryo-ma/github-profile-trophy)
  ##
  
+
+
+<br/>
 <div align="center">
   <a href="https://github.com/carloseduardoviso">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carloseduardoviso&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloseduardoviso_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carloseduardoviso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloseduardoviso&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <!--
