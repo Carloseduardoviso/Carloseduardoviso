@@ -138,7 +138,7 @@ Here are some ideas to get you started.
 </p>
 
  ##
-    👨‍💻Linguagens e Framework👨‍💻
+    👨‍💻Linguagens e Framework que estou trabalhando!👨‍💻
  
 <div style="display: inline_block"><br> 
    <div style="display: inline_block"><br>
