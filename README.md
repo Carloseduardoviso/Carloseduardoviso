@@ -1,4 +1,4 @@
-Oiii eu sou o Carlos Eduardo, sou Analista de Sistema da Informação e criador de conteúdo de programação e tecnologia!
+Oiii eu sou o Carlos Eduardo, sou formado em Analise e Desenvolvimento de Sistema, estou cursando Sistema de Informação!
 
  ##
  
