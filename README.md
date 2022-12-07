@@ -178,7 +178,7 @@ Sou desenvolvedor Front - End e apaixonado por tecnologia, iniciei minha carreir
   
  Vamos tomar um café, estou sempre aberto a aprender coisas novas e discutir ideias malucas. Você pode entrar em contato comigo em carloseduardo384.45@gmail.com
  
- <!--
+ 
 **Carloseduardoviso/Carloseduardoviso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started.
@@ -192,8 +192,6 @@ Here are some ideas to get you started.
   📲 https://www.facebook.com/profile.php?id=100013778889618
   📲 https://www.instagram.com/carloseduardo384.45/
   📲 https://www.linkedin.com/in/carlos-eduardo-carvalho-do-viso-ti-b45183212
--->
-
 
 Até mais!
 Volte sempre!!!
