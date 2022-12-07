@@ -152,7 +152,7 @@ Here are some ideas to get you started.
 <h4 align="center">
 
 [![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/arthurspk)](https://www.facebook.com/seixasqlc/)
-[![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/arthurspk)](https://www.instagram.com/arthurspk/)
+[![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/arthurspk)](https://www.instagram.com/arthurspk/](https://www.instagram.com/carloseduardo384.45/)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/arthurspk)](https://www.linkedin.com/in/arthurspk/)
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-3bb34b?style=for-the-badge&logo=Spotify&logoColor=161f16&link=https://github.com/arthurspk)](https://open.spotify.com/user/Heimdallr0?fbclid=IwAR0vLf9kXegU7iZNCy3IJ1S6vb3sJ6CRRXelpW5tDOG5trSUGZ8SK4-Yjfg)
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCzmXzz_VR0Li8-YOvWN_t3g)
@@ -193,7 +193,7 @@ The true soldier does not fight because he hates what is in front of him, but be
           📺 <a href="https://www.youtube.com/channel/UCzmXzz_VR0Li8-YOvWN_t3g">Subscribe on Youtube</a>
         </li>
         <li>
-          📷 <a href="https://www.instagram.com/guiadevbrasil/](https://www.instagram.com/carloseduardo384.45/">Follow me on instagram</a>
+          📷 <a href="https://www.instagram.com/carloseduardo384.45/">Follow me on instagram</a>
         </li>
         <li>
           📬 <a href=mailto:arthurguiadev@gmail.com>Contact-me on email</a>
