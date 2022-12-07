@@ -1,4 +1,3 @@
-Oiii eu sou o Carlos Eduardo, sou formado em Analise e Desenvolvimento de Sistema, estou cursando Sistema de Informação!
 
  ##
  
@@ -178,6 +177,23 @@ Sou desenvolvedor Front - End e apaixonado por tecnologia, iniciei minha carreir
 • Curso de Docker - YouTube
   
  Vamos tomar um café, estou sempre aberto a aprender coisas novas e discutir ideias malucas. Você pode entrar em contato comigo em carloseduardo384.45@gmail.com
+ 
+ <!--
+**Carloseduardoviso/Carloseduardoviso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started.
+
+- 🔭 No momento, estou trabalhando como estagiário...
+- 🌱  Estou aprendendo Font-End e Beck-End...
+- 👯 Estou querendo colaborar em alguns projeto...
+- 🤔 Estou procurando ajuda com JavaScript...
+- 💬 Pergunte-me sobre qualquer Assunto...
+- 📫 Como chegar até mim: 
+  📲 https://www.facebook.com/profile.php?id=100013778889618
+  📲 https://www.instagram.com/carloseduardo384.45/
+  📲 https://www.linkedin.com/in/carlos-eduardo-carvalho-do-viso-ti-b45183212
+-->
+
 
 Até mais!
 Volte sempre!!!
