@@ -7,6 +7,14 @@
  ##
  
  # Hi, I'm Carlos Eduardo 👨🏻‍💻 - @carloseduardo384.45
+ 
+ ##
+ 
+ **🏅Troféus Personalizados🏆**
+ 
+ [![trophy](https://github-profile-trophy.vercel.app/?username=carloseduardoviso)](https://github.com/ryo-ma/github-profile-trophy)
+ ##
+ 
 
 <h4 align="center">
 
