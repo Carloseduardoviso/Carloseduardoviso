@@ -33,15 +33,6 @@ Here are some ideas to get you started.
 -->
 
 
- 
-
- ## Estatísticas 💹
-
- 
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=carloseduardoviso&theme=green_nur&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-##
- 
- 
 ## 🛠️ Minhas ferramentas favoritas
 
 ### 👨‍💻 Linguagens de programação
@@ -200,7 +191,7 @@ Sou desenvolvedor Front - End e apaixonado por tecnologia, iniciei minha carreir
 • Curso em Vídeo - YouTube 
 • Curso de Docker - YouTube
   
- Vamos tomar um café, estou sempre aberto a aprender coisas novas e discutir ideias malucas. Você pode entrar em contato comigo em arthurguiadev@gmail.com
+ Vamos tomar um café, estou sempre aberto a aprender coisas novas e discutir ideias malucas. Você pode entrar em contato comigo em carloseduardo384.45@gmail.com
 
 Até mais!
 Volte sempre!!!
