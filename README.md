@@ -142,20 +142,13 @@ Seja muito bem vindo !!
 Sou desenvolvedor Front - End e apaixonado por tecnologia, iniciei minha carreira na informática com o curso básico e avançado, logo fiz curso técnico, tecnólogo e uma graduação.
 
 #Minha habilidades são
-• HTML 5
-• CSS 3
-• JavaScript - estudando 
 • Vite 
-• SASS
 • GitHub
 • GIT
 • Bootstrap
-• PHP - estudando
-• Codeigniter
-• Node.js 
+• Codeigniter 
 • Mysql
 • Bulma
-• Java - estudando 
 
 #Ferramentas utilizadas ⚒ 
 • Vscode
@@ -190,7 +183,7 @@ Volte sempre!!!
       <p>
         🌙 Making daily content in <a href="https://www.instagram.com/guiadevbrasil/">@guiadevbrasil</a>, I supplement that writing with <a href="https://www.youtube.com/channel/UCzmXzz_VR0Li8-YOvWN_t3g">videos on Youtube</a>.
       </p>
-      <h3>Other places you can find me</h3>
+      <h3>Descrição!!</h3>
       <ul>
         <li>
           🔭 No momento, estou trabalhando como estagiário...
