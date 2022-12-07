@@ -69,11 +69,9 @@ Volte sempre!!!
     </td>
     <td style="border: 0";>
       <p>
-        💻 Project focused on quality content on programming and technology in general <a href="https://www.instagram.com/guiadevbrasil/">Guia Dev Brasil<a/>.
+        💻 Focado em desenvolver soluções em programação e tecnologia em geral💻
       </p>
-      <p>
-        🌙 Making daily content in <a href="https://www.instagram.com/guiadevbrasil/">@guiadevbrasil</a>, I supplement that writing with <a href="https://www.youtube.com/channel/UCzmXzz_VR0Li8-YOvWN_t3g">videos on Youtube</a>.
-      </p>
+      
       <h3>Descrição!!</h3>
       <ul>
         <li>
