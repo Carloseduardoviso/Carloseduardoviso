@@ -71,7 +71,7 @@ Volte sempre!!!
       <p>
         💻 Focado em desenvolver soluções em programação e tecnologia em geral💻
       </p>
-      
+      <p>
       <h3>Descrição!!</h3>
       <ul>
         <li>
