@@ -163,7 +163,7 @@ Here are some ideas to get you started.
  
  
  
- # Hi, I'm Arthur 👨🏻‍💻 - @guiadevbrasil
+ # Hi, I'm Carlos Eduardo 👨🏻‍💻 - @guiadevbrasil
 
 <h4 align="center">
 
@@ -224,3 +224,10 @@ The true soldier does not fight because he hates what is in front of him, but be
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arthurspk&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=arthurspk&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
 | :-: | :-: |
+ 
+ ##
+  **Assista meu gráfico de contribuição comido pela cobra🐍**
+  
+  ![snake gif](https://github.com/carloseduardoviso/carloseduardoviso/blob/output/github-contribution-grid-snake.gif)
+  
+ ##
