@@ -68,8 +68,9 @@ Volte sempre!!!
       <img width="400" src="https://i.imgur.com/bXxIgrd.png" />
     </td>
     <td style="border: 0";>
+      <h3>Descrição!!</h3>
       <p>
-        💻 Focado em desenvolver soluções em programação e tecnologia em geral💻
+        💻 Focado em desenvolver soluções em programação e tecnologia em geral
       </p>
       <p>
       <h3>Descrição!!</h3>
