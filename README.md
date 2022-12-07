@@ -147,22 +147,6 @@ Here are some ideas to get you started.
   
  ##
   
-  📊Cards de Estastiticas📊
-
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carloseduardoviso&theme=solarized_dark)
-  
- ##
-  **Assista meu gráfico de contribuição comido pela cobra🐍**
-  
-  ![snake gif](https://github.com/carloseduardoviso/carloseduardoviso/blob/output/github-contribution-grid-snake.gif)
-  
-  ##
-
-  </div>
-
- 
- 
- 
  # Hi, I'm Carlos Eduardo 👨🏻‍💻 - @guiadevbrasil
 
 <h4 align="center">
