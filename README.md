@@ -16,10 +16,7 @@ Here are some ideas to get you started.
 - 👯 Estou querendo colaborar em alguns projeto...
 - 🤔 Estou procurando ajuda com JavaScript...
 - 💬 Pergunte-me sobre qualquer Assunto...
-- 📫 Como chegar até mim: 
-  📲 https://www.facebook.com/profile.php?id=100013778889618
-  📲 https://www.instagram.com/carloseduardo384.45/
-  📲 https://www.linkedin.com/in/carlos-eduardo-carvalho-do-viso-ti-b45183212
+
 -->
 
 
@@ -177,21 +174,6 @@ Sou desenvolvedor Front - End e apaixonado por tecnologia, iniciei minha carreir
 • Curso de Docker - YouTube
   
  Vamos tomar um café, estou sempre aberto a aprender coisas novas e discutir ideias malucas. Você pode entrar em contato comigo em carloseduardo384.45@gmail.com
- 
- 
-**Carloseduardoviso/Carloseduardoviso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started.
-
-- 🔭 No momento, estou trabalhando como estagiário...
-- 🌱  Estou aprendendo Font-End e Beck-End...
-- 👯 Estou querendo colaborar em alguns projeto...
-- 🤔 Estou procurando ajuda com JavaScript...
-- 💬 Pergunte-me sobre qualquer Assunto...
-- 📫 Como chegar até mim: 
-  📲 https://www.facebook.com/profile.php?id=100013778889618
-  📲 https://www.instagram.com/carloseduardo384.45/
-  📲 https://www.linkedin.com/in/carlos-eduardo-carvalho-do-viso-ti-b45183212
 
 Até mais!
 Volte sempre!!!
@@ -211,16 +193,18 @@ Volte sempre!!!
       <h3>Other places you can find me</h3>
       <ul>
         <li>
-          🐦 <a href="https://twitter.com/manotoquinho">Follow me on Twitter</a>
+          🔭 No momento, estou trabalhando como estagiário...
         </li>
         <li>
-          📺 <a href="https://www.youtube.com/channel/UCzmXzz_VR0Li8-YOvWN_t3g">Subscribe on Youtube</a>
+          📺 Estou aprendendo Font-End e Beck-End...
+        <li>
+         👯 Estou querendo colaborar em alguns projeto...
         </li>
         <li>
-          📷 <a href="https://www.instagram.com/carloseduardo384.45/">Follow me on instagram</a>
+          🤔 Estou procurando ajuda com JavaScript...
         </li>
-        <li>
-          📬 <a href=mailto:arthurguiadev@gmail.com>Contact-me on email</a>
+       <li>
+          💬 Pergunte-me sobre qualquer Assunto...
         </li>
       </ul>
     </td>
