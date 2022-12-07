@@ -168,7 +168,7 @@ Seja muito bem vindo !!
 
 Sou desenvolvedor Front - End e apaixonado por tecnologia, iniciei minha carreira na informática com o curso básico e avançado, logo fiz curso técnico, tecnólogo e uma graduação.
 
-=== Minha habilidades são ===
+#Minha habilidades são
 • HTML 5
 • CSS 3
 • JavaScript - estudando 
@@ -184,14 +184,14 @@ Sou desenvolvedor Front - End e apaixonado por tecnologia, iniciei minha carreir
 • Bulma
 • Java - estudando 
 
-=== Ferramentas utilizadas ⚒ ===
+#Ferramentas utilizadas ⚒ 
 • Vscode
 • Alfresco
 • Codepen
 • Stack Overflow
 • Vercel
 
-=== Cursos que estou fazendo ===
+#Cursos que estou fazendo
 • OneBitCode
 • Alura
 • Rocketseat
@@ -199,13 +199,11 @@ Sou desenvolvedor Front - End e apaixonado por tecnologia, iniciei minha carreir
 • Mjailton
 • Curso em Vídeo - YouTube 
 • Curso de Docker - YouTube
+  
+ Vamos tomar um café, estou sempre aberto a aprender coisas novas e discutir ideias malucas. Você pode entrar em contato comigo em arthurguiadev@gmail.com
 
 Até mais!
 Volte sempre!!!
-  
-Let's have a coffee, I'm always open to learn new things and discuss crazy ideas. You can reach me at arthurguiadev@gmail.com
-
-The true soldier does not fight because he hates what is in front of him, but because he loves what is behind him. - G. K. Chesterton
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
