@@ -6,19 +6,6 @@
  [![trophy](https://github-profile-trophy.vercel.app/?username=carloseduardoviso)](https://github.com/ryo-ma/github-profile-trophy)
  ##
  
-<!--
-**Carloseduardoviso/Carloseduardoviso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started.
-
-- 🔭 No momento, estou trabalhando como estagiário...
-- 🌱  Estou aprendendo Font-End e Beck-End...
-- 👯 Estou querendo colaborar em alguns projeto...
-- 🤔 Estou procurando ajuda com JavaScript...
-- 💬 Pergunte-me sobre qualquer Assunto...
-
--->
-
 
 ## 🛠️ Minhas ferramentas favoritas
 
@@ -120,7 +107,7 @@ Here are some ideas to get you started.
   
  ##
   
- # Hi, I'm Carlos Eduardo 👨🏻‍💻 - @guiadevbrasil
+ # Hi, I'm Carlos Eduardo 👨🏻‍💻 - @carloseduardo384.45
 
 <h4 align="center">
 
