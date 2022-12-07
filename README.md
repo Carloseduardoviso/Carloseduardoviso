@@ -162,12 +162,47 @@ Here are some ideas to get you started.
 </h4>
 
 
-I'm passionate about technology! I had my first contact with computers when I was 7 years old and since then I've been discovering a little more about this wonderful area, I like the opportunity that technology offers people, and the proposal to make people's lives easier, I have a dream of getting to know the whole world sharing all my knowledge and also acquiring new experiences and experiences, I think that knowledge is something everyone should have access to, and I wanted to have the experience of living in Africa for a while.
+Sou Carlos Eduardo Carvalho do Viso tenho 21 anos 
 
-I have knowledge in: JavaScript, TypeScript, Node.js, AWS, Serverless, DynamoDB, GraphQL, React, Gatsby, Python, MongoDB, MySQL, HTML, CSS, GIT, Linux, MacOS, Windows.
+Seja muito bem vindo !!
 
-I have a community called Guia Dev Brazil that helps people in the computing area, whose purpose is to make free and quality content available to the whole world and introduce more people in the area of technology, in the community there are several repositories to help and guide people in its development path, I love to know new things, work in groups and have new experiences, I want to work outside Brazil, improve my English and meet new cultures, people and have new experiences, currently I also study computer science and I dedicate myself to becoming a full-stack developer and cybersecurity specialist.
+Sou desenvolvedor Front - End e apaixonado por tecnologia, iniciei minha carreira na informática com o curso básico e avançado, logo fiz curso técnico, tecnólogo e uma graduação.
 
+=== Minha habilidades são ===
+• HTML 5
+• CSS 3
+• JavaScript - estudando 
+• Vite 
+• SASS
+• GitHub
+• GIT
+• Bootstrap
+• PHP - estudando
+• Codeigniter
+• Node.js 
+• Mysql
+• Bulma
+• Java - estudando 
+
+=== Ferramentas utilizadas ⚒ ===
+• Vscode
+• Alfresco
+• Codepen
+• Stack Overflow
+• Vercel
+
+=== Cursos que estou fazendo ===
+• OneBitCode
+• Alura
+• Rocketseat
+• DevMedia
+• Mjailton
+• Curso em Vídeo - YouTube 
+• Curso de Docker - YouTube
+
+Até mais!
+Volte sempre!!!
+  
 Let's have a coffee, I'm always open to learn new things and discuss crazy ideas. You can reach me at arthurguiadev@gmail.com
 
 The true soldier does not fight because he hates what is in front of him, but because he loves what is behind him. - G. K. Chesterton
