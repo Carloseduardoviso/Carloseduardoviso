@@ -157,7 +157,7 @@ Volte sempre!!!
  ##
   **Assista meu gráfico de contribuição comido pela cobra🐍**
   
-  ![snake gif](https://github.com/carloseduardoviso/carloseduardoviso/blob/Platane/snk/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/carloseduardoviso/Platane/snk/output/github-contribution-grid-snake.svg)
  ![snake gif](https://github.com/carloseduardoviso/blob/output/github-contribution-grid-snake.svg)
 
  ##
