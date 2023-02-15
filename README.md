@@ -7,42 +7,6 @@
  [![trophy](https://github-profile-trophy.vercel.app/?username=carloseduardoviso)](https://github.com/ryo-ma/github-profile-trophy)
  ##
  
-Sou Carlos Eduardo Carvalho do Viso tenho 21 anos 
-
-Seja muito bem vindo !!
-
-Sou desenvolvedor Front - End e apaixonado por tecnologia, iniciei minha carreira na informática com o curso básico e avançado, logo fiz curso técnico, tecnólogo e uma graduação.
-
-#Minha habilidades são
-• Vite 
-• GitHub
-• GIT
-• Bootstrap
-• Codeigniter 
-• Mysql
-• Bulma
-
-#Ferramentas utilizadas ⚒ 
-• Vscode
-• Alfresco
-• Codepen
-• Stack Overflow
-• Vercel
-
-#Cursos que estou fazendo
-• OneBitCode
-• Alura
-• Rocketseat
-• DevMedia
-• Mjailton
-• Curso em Vídeo - YouTube 
-• Curso de Docker - YouTube
-  
- Vamos tomar um café, estou sempre aberto a aprender coisas novas e discutir ideias malucas. Você pode entrar em contato comigo em carloseduardo384.45@gmail.com
-
-Até mais!
-Volte sempre!!!
-
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
