@@ -55,7 +55,7 @@
   <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a> 
   <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>      
   <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asass"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>    
+  <a href="#"><img alt="PHP" src="https://img.shields.io/badge/Vue.js-E34F26.svg?logo=Vue.js&logoColor=white"></a>
 </p>
 [](url)
 ### 🧰 Estruturas e bibliotecas
@@ -93,8 +93,8 @@
 
 ### 💻 Nova tecnologia estudando futuramente
 
-<a href="#"><img alt="Java" src="URL_DA_IMAGEM_DO_BADGE"></a>
-<a href="#"><img alt="PHP" src="URL_DA_IMAGEM_DO_BADGE"></a>
+<a href="#"><img alt="Java" src="https://img.shields.io/badge/java-E34F26.svg?logo=java&logoColor=white"></a>
+<a href="#"><img alt="PHP" src="https://img.shields.io/badge/php-E34F26.svg?logo=php&logoColor=white"></a>
  <h4 align="center">
 
   ##
