@@ -21,7 +21,7 @@
       <h3>Descrição!!</h3>
       <ul>
         <li>
-          🔭 No momento, estou trabalhando como desenvolverdo na SEPOG - RO
+          🔭 No momento, estou trabalhando como desenvolvedo na SEPOG - RO
         </li>
         <li>
           📺 Estou aprendendo Font-End e Beck-End...
