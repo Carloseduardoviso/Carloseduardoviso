@@ -76,6 +76,7 @@
     <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>  
     <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
     <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
+   <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-E34F26.svg?logo=GitHub&logoColor=white"></a>
 </p>
 
 ### 💻 Software e ferramentas
@@ -91,10 +92,11 @@
     <a href="#"><img alt="Visual Studio 2022" src="https://img.shields.io/badge/Visual%20Studio%202022-0078d7.svg?logo=visual-studio&logoColor=white"></a>
 </p>
 
-### 💻 Nova tecnologia estudando futuramente
+### 💻 Nova tecnologia em processo de estudo
 
 <a href="#"><img alt="Java" src="https://img.shields.io/badge/java-E34F26.svg?logo=java&logoColor=white"></a>
 <a href="#"><img alt="PHP" src="https://img.shields.io/badge/php-E34F26.svg?logo=php&logoColor=white"></a>
+
  <h4 align="center">
 
   ##
